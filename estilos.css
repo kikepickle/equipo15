@@ -1,0 +1,76 @@
+h1{
+position: relative;
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+a{
+
+}
+header{
+ background-color: #fff;
+
+ 
+}
+
+nav{
+ background-color: #E7E7E7;
+ display: flex;
+ margin-right: 20px;
+ align-items: center;
+}
+
+.boton{
+ padding: 0% 20px 0% 30px;
+
+}
+
+body {
+position: relative;
+display: grid;
+}
+
+main{
+ background-color: black;   
+}
+
+.subtitulo{
+padding: 1%;
+background-color: #CFDDFF;
+}
+
+.contenedor{
+ background-color: #E7E7E7;
+ margin: 40px;
+ padding: 10px;
+}
+
+.foto{
+
+}
+.encabezado{
+    justify-content: space-between;
+    display: flex;
+}
+
+footer{
+ background-color: black;
+ color: white;
+ display: flex;
+}
+.foo{
+justify-content:center;
+margin-left: 42%;
+position: relative;
+}
+
+.titulo{
+    white-space: nowrap;
+    padding: 1%;
+}
